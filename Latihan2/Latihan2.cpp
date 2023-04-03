@@ -27,4 +27,12 @@ int main() {
 	cin >> mhs.Alamat.Desa;
 	cout << "\tMasukan Kota : ";
 	cin >> mhs.Alamat.Kota;
+	cout << "Masuan Umur : ";
+	cin >> mhs.umur;
+
+	cout << "\n\nNIM = " << mhs.NIM;
+	cout << "\nNama = " << mhs.Nama;
+	cout << "\nDesa = " << mhs.Alamat.Desa;
+	cout << "\nKota = " << mhs.Alamat.Kota;
+	cout << "\nUmur = " << mhs.umur;
 }
