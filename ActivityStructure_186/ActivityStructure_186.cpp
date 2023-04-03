@@ -9,7 +9,7 @@ struct mahasiswa
 	int umur;
 };
 
-int mainn() {
+int main() {
 	mahasiswa mhs1, mhs2;
 	mhs1.NIM = "20220140019;";
 	mhs1.Nama = "Ardian Mulya";
